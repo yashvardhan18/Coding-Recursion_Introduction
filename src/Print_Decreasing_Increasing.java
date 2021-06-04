@@ -17,8 +17,6 @@ public class Print_Decreasing_Increasing {
         System.out.println(n);
         pdi(n-1);
         System.out.println(n);
-
-
     }
 
 }
