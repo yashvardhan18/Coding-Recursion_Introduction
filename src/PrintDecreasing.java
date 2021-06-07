@@ -16,8 +16,6 @@ public class PrintDecreasing {
         }
         System.out.println(n);
         printDecreasing(n-1);
-
-
     }
 
 }
