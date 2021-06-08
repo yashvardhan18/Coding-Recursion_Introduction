@@ -4,7 +4,7 @@ import java.util.*;
 public class Print_Decreasing_Increasing {
 
     public static void main(String[] args) throws Exception {
-        // write your code here
+        
         Scanner scn=new Scanner(System.in);
         int n=scn.nextInt();
         pdi(n);
