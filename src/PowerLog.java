@@ -22,7 +22,7 @@ public class PowerLog {
             xpn = xpn * x;
         }
 
-        return xpn;
+      return xpn;
     }
 
 }
