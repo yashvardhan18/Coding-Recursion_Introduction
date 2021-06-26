@@ -10,6 +10,7 @@ public class Print_Decreasing_Increasing {
         pdi(n);
     }
 
+    
     public static void pdi(int n){
         if(n==0){
             return;
