@@ -10,6 +10,7 @@ public class ZigZag {
         pzz(n);
     }
 
+    
     public static void pzz(int n){
         if(n==0){
             return;
